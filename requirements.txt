@@ -18,3 +18,4 @@ psycopg2==2.6.1
 redis==2.10.5
 sqlparse==0.1.19
 python-social-auth
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
